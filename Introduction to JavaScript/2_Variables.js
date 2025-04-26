@@ -64,7 +64,7 @@ var and let you can store any variable in a const variable. The way tou declare 
 variable and assign a value to it follows the same structure as let and var.
 
 However, a const variable cannot be reassigned because it is constant. If you try to reassign a
-const variable, you will get a TypeError. Constant variables must be assigned a valur when
+const variable, you will get a TypeError. Constant variables must be assigned a value when
 declared. If you try to declare a const variable without a value, you will get a SyntaxError.
 
 If you are trying to decide between which keyword to use, let or const, think about whether
