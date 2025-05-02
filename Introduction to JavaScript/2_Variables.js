@@ -119,7 +119,9 @@ operators, the variable's value is updated and assigned as the new value of that
 
 let gainedDollar = 3;
 let lostDollar = 50;
+// eslint-disable-next-line no-unused-vars
 gainedDollar++;
+// eslint-disable-next-line no-unused-vars
 lostDollar--;
 
 /*
@@ -217,7 +219,7 @@ let myAge = 20;
 let earlyYears = 2;
 earlyYears *= 10.5;
 // Variable to store later dog years
-laterYears = myAge - 2;
+let laterYears = myAge - 2;
 // laterYears multiplied by 4
 laterYears *= 4;
 // Variable to store dog age
