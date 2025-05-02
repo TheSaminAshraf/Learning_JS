@@ -106,7 +106,7 @@ running.
 
 */
 
-const logVisibleLightWaves = () => {
+const logVisibleLightWaves1 = () => {
     let lightWaves = 'Moonlight';
       let region = 'The Arctic';
     // Add if statement here:
@@ -117,7 +117,7 @@ const logVisibleLightWaves = () => {
     console.log(lightWaves);
 };
   
-logVisibleLightWaves();
+logVisibleLightWaves1();
 
 /*
 

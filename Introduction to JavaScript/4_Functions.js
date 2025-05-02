@@ -289,7 +289,7 @@ function calculateArea(width, height)   {
 greetWorld();
 
 // Defining a function using function expressions
-const calculateArea1 = function(width * height) {
+const calculateArea1 = function(width, height) {
     const area = width * height;
     return area;
 };
